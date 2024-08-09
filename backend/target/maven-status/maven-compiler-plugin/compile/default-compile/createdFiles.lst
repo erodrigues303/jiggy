@@ -1,0 +1,4 @@
+com\example\demo\repository\ClothesRepository.class
+com\example\demo\DemoApplication.class
+com\example\demo\model\Clothes.class
+com\example\demo\service\ClothesService.class

@@ -1,0 +1,44 @@
+.clothes-panel {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.clothes-image {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 20px;
+}
+
+.clothes-info {
+    flex-grow: 1;
+}
+
+.clothes-name {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.clothes-category {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.clothes-price {
+    font-size: 1em;
+    color: #333;
+    margin: 5px 0 0 0;
+}
+
+.heart-button {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #e74c3c;
+    outline: none;
+}
